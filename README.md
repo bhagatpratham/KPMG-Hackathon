@@ -15,7 +15,7 @@ Despite all of these activities, some students do not find them as engaging as a
 
 - Students find it really difficult to keep track of all exam schedules, assignments deadlines, learning materials and notes which has a significant impact on their grades.
 
-- For many, the new format for their classes has left them with a lack of motivation that may affect their academic performance throughout the term
+- For many students, the new format of their classes has left them with a lack of motivation that may have significant impact on their academic performance throughout the semester
 
 
 

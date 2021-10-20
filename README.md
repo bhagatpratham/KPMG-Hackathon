@@ -1,7 +1,7 @@
 # Education Premier League
 
 
-### Problem Statement
+## Problem Statement
 
 The COVID-19 pandemic has affected educational systems globally, leading to the total closures of schools
 
@@ -20,10 +20,10 @@ Despite all of these activities, some students do not find them as engaging as a
 
 
 
-### Approach
+## Approach
 
 
-*1. How will you solve it?*
+### *1. How will you solve it?*
 
 The primary goal of EdPL is to help students learn in the best possible way when they have achievements, targets, and rewards to reach for when they are also having fun.
 
@@ -45,12 +45,12 @@ In EdPL we will apply game-based elements to school/college subjects with featur
 
 - The opportunity to think outside the box. Tasks are no longer just about filling out a spreadsheet 
 
-*2. Problem by technology (your solution)?*
+### *2. Problem by technology (your solution)?*
 
 ...
 
 
-### Overview with a diagram: solutions/prototype mock image & business model with a diagram
+## Overview with a diagram: solutions/prototype mock image & business model with a diagram
 
 
 ...

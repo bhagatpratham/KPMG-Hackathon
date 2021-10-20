@@ -1,4 +1,4 @@
-# Education Premier League
+# Education Premier League (EdPL)
 
 
 ## Problem Statement

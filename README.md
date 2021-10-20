@@ -25,8 +25,25 @@ Despite all of these activities, some students do not find them as engaging as a
 
 *1. How will you solve it?*
 
-...
+The primary goal of EdPL is to help students learn in the best possible way when they have achievements, targets, and rewards to reach for when they are also having fun.
 
+Students will have more motivation to learn when they see game-based rewards are applied to learning materials (course work).
+
+In EdPL we will apply game-based elements to school/college subjects with features such as peer competition, point scoring, score tables (leaderboard) to drive engagement which in fact help students test their knowledge
+
+**Benefits of Gamification in education**
+
+- A less stressful environment in terms of failure, because students may just try again.
+
+- Through the use of progress markers, learning becomes evident.
+
+- Students may discover an inherent desire for studying.
+
+- Students are typically more at ease in gaming situations, and as a result, they are more proactive and prone to make mistakes.
+
+- Students' involvement and attention levels are higher.
+
+- The opportunity to think outside the box. Tasks are no longer just about filling out a spreadsheet 
 
 *2. Problem by technology (your solution)?*
 

@@ -45,6 +45,8 @@ In EdPL we will apply game-based elements to school/college subjects with featur
 
 - The opportunity to think outside the box. Tasks are no longer just about filling out a spreadsheet 
 
+EdPL will also help group of students with shared interests/goals find a mentor who can help them acheive their goals and keeps them on track. 
+
 ### *2. Problem by technology (your solution)?*
 
 ...

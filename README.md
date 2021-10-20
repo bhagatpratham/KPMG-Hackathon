@@ -31,7 +31,7 @@ Students will have more motivation to learn when they see game-based rewards are
 
 In EdPL we will apply game-based elements to school/college subjects with features such as peer competition, point scoring, score tables (leaderboard) to drive engagement which in fact help students test their knowledge
 
-**Benefits of Gamification in education**
+**Benefits**
 
 - A less stressful environment in terms of failure, because students may just try again.
 

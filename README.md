@@ -55,5 +55,4 @@ EdPL will also help group of students with shared interests/goals find a mentor 
 
 ## Overview with a diagram: solutions/prototype mock image & business model with a diagram
 
-
-...
+- Wireframe: https://wireframe.cc/Llnf1A
